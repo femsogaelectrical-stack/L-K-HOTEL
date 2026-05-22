@@ -13,7 +13,7 @@ export const ROOMS: Room[] = [
     price: 35000,
     capacity: 2,
     size: '28 m²',
-    image: 'https://images.unsplash.com/photo-1611891405120-449e7529a141?auto=format&fit=crop&q=80&w=800',
+    image: 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/638861060.jpg?k=069f14439757419407c0a4d8fab4515d29a28c0706c50247658a709695d6d1a4&o=',
     features: [
       'Complimentary Ultra-Fast Wi-Fi',
       '24/7 Uninterrupted Power Supply',
