@@ -1,0 +1,6 @@
+{
+  "name": "L&K Hotel & Suites",
+  "description": "Premium 4.5-star hotel and suites in Ishara, Ogun State. Experience luxury, comfort, and state-of-the-art facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
